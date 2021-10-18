@@ -13,3 +13,4 @@ for i in range(len(x)):
     print('hola mundo ', i)
 else:
     print('todo termino bien')
+    print('cosas'*3)
