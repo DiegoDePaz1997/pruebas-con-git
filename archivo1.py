@@ -39,3 +39,5 @@ def condicion(cond):
 if __name__ == '__main__':
     a = condicion(r.randint(0, 10))
     print(next(a))
+    for i in range(10, 0, -1):
+        print('rango decreciente')
